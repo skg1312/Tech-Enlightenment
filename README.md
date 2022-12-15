@@ -1,5 +1,21 @@
 # Tech-Enlightenment
 Future Ready Talent project
+
+Most students and developers are perplexed when learning new technologies; they require clarity in order to learn we created a solution for learning new Tech knowledge
+
+The Solution for perplexed of students and developers is a single source to get all the Information and knowledge in all the aspects, in this all the resources like Roadmaps, Programming books and official notes and many more general opportunities and Tech Events also get available, some useful github repos and website and youtube linkes are provided.
+
+tech stack used:
+Bootstrap,
+Azure Bot Service,
+Azure Cognitive Services,
+Static Web Apps,
+
+
+
+
+
+
 demo screenshot of project
 ![landing](https://user-images.githubusercontent.com/87139133/207968586-e35cfcd0-b56b-4fcf-9f33-31fa7d17a1ae.png)
 ![home](https://user-images.githubusercontent.com/87139133/207968615-52240576-ccb5-46bb-a39e-a274d743e923.png)
