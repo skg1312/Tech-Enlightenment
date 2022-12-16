@@ -12,7 +12,9 @@ Azure Cognitive Services,
 Static Web Apps,
 
 
+project url : https://blue-river-0bd0e3510.2.azurestaticapps.net
 
+demo video: https://youtu.be/1xtysUbyJcs
 
 
 
