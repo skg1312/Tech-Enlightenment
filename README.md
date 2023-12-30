@@ -12,8 +12,7 @@ Azure Cognitive Services,
 Static Web Apps,
 
 
-project url : https://blue-river-0bd0e3510.2.azurestaticapps.net
-
+project url :https://skg1312.github.io/Tech-Enlightenment/
 demo video: https://youtu.be/1xtysUbyJcs
 
 
